@@ -2,6 +2,11 @@
 Simple calculator CLI made with Node and Minimist
 The idea for this cli was taken from <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Calculator-CLI.md">App Ideas Repository </a>
 
+## Install instructions
+```bash
+# in root folder of the project
+$ npm link 
+```
 ## Usage
 
 ```bash
